@@ -7,7 +7,7 @@ The United States Geological Survey, known as USGS, plays a crucial role in prov
 USGS is embarking on an endeavor to create a new set of visualization tools. These tools aim to help them present their extensive earthquake data in a more meaningful way. Despite collecting a substantial volume of global data on a daily basis, they lack an effective means of displaying it. By visualizing this data, they hope to enhance public awareness, educate other government entities, and potentially secure increased support for addressing critical planetary challenges.
 
 ## Website Link
-
+https://jad95.github.io/leaflet-challenge/
 
 ## Project Overview
 
